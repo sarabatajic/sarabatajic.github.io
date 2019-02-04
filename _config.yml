@@ -11,19 +11,19 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+url: http://sarabatajic.github.io/
+baseurl: /sarabatajic/
+title: Sara Batajic
+author: Sara Batajic
+description: Personal Blog and Resume
 avatar: profile.png
-email: yourname@email.com
-github: jekyller/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+email: sarabatajic@hotmail.com
+github: sarabatajic # username
+twitter: sarabatajic
+linkedin: sarabatajic
+#stackoverflow: username   #e.g: 
 #Comment out if you don't want disqus
-disqus: username
+#disqus: username
 google_analytics: UA-69391421-1
 
 
